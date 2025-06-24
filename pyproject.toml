@@ -1,0 +1,5 @@
+[project]
+name = "zizkadb"
+version = "0.1.0"
+description = "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel debugging to support EU AI Act Article 12 record-keeping. Drift detection, MCP, Python & TypeScript SDKs. Self-host or cloud."
+requires-python = ">=3.10"
